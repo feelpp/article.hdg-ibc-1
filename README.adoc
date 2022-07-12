@@ -1,0 +1,27 @@
+:feelpp: Feel++
+= Complementary repository for A HDG method for elliptic problems with integral boundary condition: Theory and Application
+
+== Authors
+
+- Silvia Bertoluzza, IMATI, CNR, avia, Italy
+- Giovanna Guidoboni, Department of Electrical Engineering and Computer Science, Department of Mathematics, University of Missouri, Columbia, MO, 65211, USA
+- Romain Hild, IRMA UMR 7501, CNRS, Université de Strasbourg, 7 rue René Descartes, 67084 Strasbourg, France
+- Daniele Prada, IMATI, CNR, avia, Italy
+- Christophe Prud'homme,  IRMA UMR 7501, CNRS, Université de Strasbourg, 7 rue René Descartes, 67084 Strasbourg, France
+- Riccardo Sacco, Dipartimento di Matematica, Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano, Italy
+- Lorenzo Sala, Centre de recherche INRIA de Saclay - Ile de France, 91120 Palaiseau, France
+- Marcela Szopos, Université Paris Cité, CNRS, MAP5, F-75006 Paris, France
+
+== Copyright
+
+Journal of Scientific Computing, Elsevier
+
+=== Installation of {feelpp}
+
+== Example from the article
+
+=== Electronic device case
+
+=== thermo electric case
+
+=== Opthalmic case
